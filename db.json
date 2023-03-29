@@ -1,0 +1,34 @@
+{
+  "buckets": [
+    {
+      "name": "Education",
+      "id": 1
+    },
+    {
+      "name": "Entertainment",
+      "id": 2
+    },
+    {
+      "name": "",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "name": "React Js",
+      "id": 3
+    },
+    {
+      "name": "Random Js",
+      "link": "https://www.youtube.com/watch?v=yBOFZ2WiJdE",
+      "bucketId": "2",
+      "id": 4
+    },
+    {
+      "name": "ReactJs",
+      "link": "https://www.youtube.com/watch?v=SqcY0GlETPk",
+      "bucketId": "1",
+      "id": 5
+    }
+  ]
+}

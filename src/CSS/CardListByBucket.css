@@ -1,0 +1,19 @@
+.card {
+    background-color: #f9feff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 16px;
+    padding: 16px;
+  }
+  
+  .card-list{
+    text-align: center;
+  background-color: #f3f8f8;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 16px;
+  margin: 10px;
+  box-sizing: border-box;
+  height: 97vh;
+  /* position: absolute; */
+  }

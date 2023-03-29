@@ -1,0 +1,4 @@
+.addBucket{
+    display: flex;
+    flex-direction: row;
+}
