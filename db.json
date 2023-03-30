@@ -7,6 +7,10 @@
     {
       "name": "Entertainment",
       "id": 2
+    },
+    {
+      "name": "Vennila",
+      "id": 3
     }
   ],
   "cards": [
@@ -21,7 +25,7 @@
       "id": 4
     },
     {
-      "name": "ReactJs",
+      "name": "ReactJs Tutorial",
       "link": "https://www.youtube.com/watch?v=SqcY0GlETPk",
       "bucketId": "1",
       "id": 5
